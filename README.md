@@ -1,83 +1,133 @@
-# 👋 Olá, eu sou João Gabriel
+<div align="center">
 
-Estudante de Inteligência Artificial, desenvolvendo minha formação em programação, IA, dados e desenvolvimento web.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jo%C3%A3o%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Intelig%C3%AAncia%20Artificial%20%7C%20Dados%20%7C%20Tecnologia&descSize=16&descAlignY=52&descAlign=50" width="100%" alt="Cabeçalho João Gabriel" />
 
-Atualmente estou construindo minha base técnica por meio da faculdade, projetos acadêmicos e estudos independentes.
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%F0%9F%93%8A+Explorando+o+universo+dos+dados;%F0%9F%90%8D+Python+%7C+SQL+%7C+Dados;%F0%9F%A7%A0+Construindo+minha+base+em+Intelig%C3%AAncia+Artificial;%F0%9F%9A%80+Aprendendo%2C+construindo+e+evoluindo)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoaoGabriel-o&color=blueviolet&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/JoaoGabriel-o?style=for-the-badge&color=6C3483&labelColor=1a1a2e&logo=github&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/JoaoGabriel-o?style=for-the-badge&color=00D4FF&labelColor=1a1a2e&logo=github&label=ESTRELAS)
+
+</div>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Inteligência Artificial
-- 🤖 Interesse em Inteligência Artificial e Machine Learning
-- 💻 Estudando Python, Desenvolvimento Web e Banco de Dados
-- 📊 Construindo conhecimentos em Engenharia de Dados
-- 🚀 Interesse em tecnologia, inovação e empreendedorismo
-- 🌱 Atualmente desenvolvendo projetos e fortalecendo minha base técnica
+> *Mais do que aprender tecnologia, quero entender como usá-la para resolver problemas reais.*
+
+Sou estudante de **Tecnologia em Inteligência Artificial** no **Piauí Instituto de Tecnologia (PIT).** Estou construindo minha formação por meio da faculdade, de experiências práticas e de projetos que me permitem explorar diferentes áreas da tecnologia.
+
+Tenho interesse nas áreas de inteligência artificial, dados e inovação, mas continuo aberto a explorar novas possibilidades e descobrir os caminhos com os quais mais me identifico.
+
+- 📊 Principal área de interesse: **dados**
+- 🧠 Curiosidade por soluções que conectam **dados e inteligência artificial**
+- 🚀 Interesse em **tecnologia, inovação e empreendedorismo**
+- 🌱 Aprendizado contínuo por meio de experiências e projetos práticos
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
-### Linguagens
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Linguagens</strong>
+      <br><br>
+      <img
+        src="https://skillicons.dev/icons?i=python,c,js&theme=dark"
+        alt="Python, C e JavaScript"
+      />
+    </td>
+    <td align="center" width="50%">
+      <strong>Desenvolvimento Web</strong>
+      <br><br>
+      <img
+        src="https://skillicons.dev/icons?i=html,css&theme=dark"
+        alt="HTML e CSS"
+      />
+    </td>
+  </tr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+  <tr>
+    <td align="center" width="50%">
+      <strong>Banco de Dados</strong>
+      <br><br>
+      <img
+        src="https://skillicons.dev/icons?i=postgres&theme=dark"
+        alt="PostgreSQL"
+      />
+    </td>
+    <td align="center" width="50%">
+      <strong>Análise de Dados</strong>
+      <br><br>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+        width="48"
+        height="48"
+        alt="Pandas"
+      />
+    </td>
+  </tr>
 
-### Desenvolvimento Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Ferramentas</strong>
+      <br><br>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+        alt="Git, GitHub e VS Code"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Projetos
 
-### 🐍 C to Python
+> *Cada projeto representa uma etapa do meu aprendizado.*
 
-Repositório dedicado à prática de Python, explorando a transição dos conceitos de lógica de programação aprendidos em C.
-
-### 🐾 MartinsVet
-
-Landing page desenvolvida durante a disciplina de Desenvolvimento Web utilizando HTML, CSS e JavaScript.
-
----
-
-## 📚 Atualmente estudando
-
-- Machine Learning
-- Python
-- Desenvolvimento Web
-- Banco de Dados
-- Fundamentos de Engenharia de Dados
+| | Projeto | Descrição | Tecnologias |
+|---|---|---|---|
+| 🐍 | **[Python para quem programa em C](https://github.com/JoaoGabriel-o/Python-para-quem-programa-em-C)** | Repositório dedicado à prática de Python e à adaptação dos conceitos de programação aprendidos em C. | <img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="38" alt="Python e C" /> |
+| 🐾 | **[MartinsVet](https://github.com/JoaoGabriel-o/veterinary-website)** | Landing page criada para apresentar os serviços de uma clínica veterinária. | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS e JavaScript" /> |
 
 ---
 
-## 📈 GitHub
+## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoGabriel-o&show_icons=true&theme=github_dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel-o&layout=compact&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGabriel-o&theme=github_dark" height="180" alt="Estatísticas do GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGabriel-o&theme=github_dark" height="180" alt="Linguagens mais usadas" />
+
+</div>
 
 ---
 
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-JoaoGabriel--o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o)
+[![Instagram](https://img.shields.io/badge/Instagram-@joaogabriel.olg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabriel.olg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Gabriel_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-3b03282ab/)
+
+</div>
 
 ---
 
-### 🚀 Aprendendo. Construindo. Evoluindo.
+<div align="center">
+
+## 🚀 Este perfil acompanha o que venho aprendendo e construindo na tecnologia.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Rodapé" />
+
+</div>
