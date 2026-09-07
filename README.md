@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Quem sou eu?
 
 > *Mais do que aprender tecnologia, quero entender como usá-la para resolver problemas reais.*
 
