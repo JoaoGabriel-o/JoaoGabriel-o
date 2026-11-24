@@ -104,39 +104,105 @@ Estou direcionando meus estudos para a construção de uma base sólida em dados
 
 ## 🚀 Projetos em destaque
 
-> Cada projeto representa uma etapa da transformação do conhecimento em prática.
+> Aplicações que representam minha evolução técnica, conectando os conhecimentos adquiridos durante minha formação à resolução de problemas reais.
 
-### 🐍 Python para quem programa em C
+### 🍕 Forno & Massa — Pizzaria Artesanal
 
-Repositório dedicado à prática de Python, estabelecendo conexões entre os fundamentos de programação aprendidos em C e as particularidades da linguagem Python.
+![Status](https://img.shields.io/badge/Status-Publicado-059669?style=flat-square)
+![Categoria](https://img.shields.io/badge/Categoria-Full_Stack-064E3B?style=flat-square)
+![Projeto](https://img.shields.io/badge/Projeto-Acadêmico-064E3B?style=flat-square)
 
-**Conhecimentos aplicados:**
+Plataforma web full stack desenvolvida em equipe como projeto interdisciplinar das disciplinas de Desenvolvimento Web para IA e Banco de Dados, durante o segundo período da graduação em Inteligência Artificial.
 
-- Lógica de programação.
-- Estruturas condicionais e de repetição.
-- Fundamentos de algoritmos.
-- Adaptação entre linguagens de programação.
+A aplicação integra desenvolvimento web, banco de dados relacional e inteligência artificial para oferecer uma experiência digital completa para uma pizzaria artesanal.
 
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="40" alt="Python e C" />
+**Principais funcionalidades e implementações:**
 
-[![Repositório](https://img.shields.io/badge/Acessar_repositório-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o/Python-para-quem-programa-em-C)
+- API REST para gerenciamento de produtos e reservas.
+- Cardápio dinâmico integrado ao PostgreSQL.
+- Persistência real de dados em banco hospedado na nuvem.
+- Modelagem relacional e integridade referencial.
+- Transações SQL e consultas parametrizadas.
+- Consultas avançadas utilizando JOIN e GROUP BY.
+- Análise de desempenho utilizando índices e EXPLAIN.
+- Assistente virtual integrada à API do Google Gemini.
+- Deploy em ambiente de nuvem utilizando Vercel.
+
+**Tecnologias utilizadas:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,vercel&theme=dark" height="42" alt="Tecnologias do Forno e Massa" />
+
+![Neon](https://img.shields.io/badge/Neon-064E3B?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-059669?style=flat-square&logo=googlegemini&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-064E3B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-059669?style=flat-square)
+
+<br>
+
+[![Repositório](https://img.shields.io/badge/Acessar_repositório-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallyss-dev/devweb-ia-pizzaria)
+[![Aplicação](https://img.shields.io/badge/Acessar_aplicação-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://devweb-ia-pizzaria.vercel.app/)
 
 ---
 
-### 🐾 MartinsVet
+### 📑 Edital Bizurado
 
-Landing page desenvolvida para apresentar os serviços de uma clínica veterinária, aplicando conhecimentos de desenvolvimento web na construção de uma presença digital.
+![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-D97706?style=flat-square)
+![Projeto](https://img.shields.io/badge/Projeto-Acadêmico-064E3B?style=flat-square)
 
-**Conhecimentos aplicados:**
+Aplicação acadêmica em desenvolvimento durante a graduação em Tecnologia em Inteligência Artificial.
 
-- Estruturação de páginas web.
-- Estilização de interfaces.
-- Desenvolvimento front-end.
-- Organização e apresentação de informações.
+<!--
+Adicionar descrição da aplicação, funcionalidades,
+tecnologias utilizadas, contribuições individuais,
+link do repositório e link da aplicação.
+-->
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" alt="HTML, CSS e JavaScript" />
+---
 
-[![Repositório](https://img.shields.io/badge/Acessar_repositório-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o/veterinary-website)
+## 📂 Outros projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🐾 MartinsVet</h3>
+
+Landing page desenvolvida para apresentar os serviços de uma clínica veterinária, aplicando conceitos de desenvolvimento web e construção de interfaces.
+
+<strong>Tecnologias:</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" />
+
+<br><br>
+
+<a href="https://github.com/JoaoGabriel-o/veterinary-website">
+<img src="https://img.shields.io/badge/Repositório-059669?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🐍 Python para quem programa em C</h3>
+
+Repositório dedicado ao estudo de Python, relacionando os fundamentos de programação aprendidos em C com as particularidades da linguagem.
+
+<strong>Tecnologias:</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="38" />
+
+<br><br>
+
+<a href="https://github.com/JoaoGabriel-o/Python-para-quem-programa-em-C">
+<img src="https://img.shields.io/badge/Repositório-059669?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
