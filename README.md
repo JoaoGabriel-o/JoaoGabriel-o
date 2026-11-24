@@ -1,35 +1,44 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jo%C3%A3o%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Intelig%C3%AAncia%20Artificial%20%7C%20Dados%20%7C%20Tecnologia&descSize=16&descAlignY=52&descAlign=50" width="100%" alt="Cabeçalho João Gabriel" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&height=200&section=header&text=Jo%C3%A3o%20Gabriel%20Oliveira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Artificial%20Intelligence&descSize=17&descAlignY=55" width="100%" alt="Cabeçalho João Gabriel" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%F0%9F%93%8A+Explorando+o+universo+dos+dados;%F0%9F%90%8D+Python+%7C+SQL+%7C+Dados;%F0%9F%A7%A0+Construindo+minha+base+em+Intelig%C3%AAncia+Artificial;%F0%9F%9A%80+Aprendendo%2C+construindo+e+evoluindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Google+Student+Ambassador;Data+Engineering+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Data;Transforming+data+into+meaningful+solutions)](https://git.io/typing-svg)
 
-</div>
+<br>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-3b03282ab/)
+[![Instagram](https://img.shields.io/badge/Instagram-059669?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabriel.olg/)
+[![GitHub](https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoaoGabriel-o&color=blueviolet&style=for-the-badge&label=VISITAS+AO+PERFIL)
-![GitHub followers](https://img.shields.io/github/followers/JoaoGabriel-o?style=for-the-badge&color=6C3483&labelColor=1a1a2e&logo=github&label=SEGUIDORES)
-![GitHub User's stars](https://img.shields.io/github/stars/JoaoGabriel-o?style=for-the-badge&color=00D4FF&labelColor=1a1a2e&logo=github&label=ESTRELAS)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoaoGabriel-o&color=059669&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/JoaoGabriel-o?style=for-the-badge&color=059669&labelColor=064E3B&logo=github&label=SEGUIDORES)
+![GitHub stars](https://img.shields.io/github/stars/JoaoGabriel-o?style=for-the-badge&color=059669&labelColor=064E3B&logo=github&label=ESTRELAS)
 
 </div>
 
 ---
 
-## 🧠 Quem sou eu?
+## 👨‍💻 Sobre mim
 
-> *Mais do que aprender tecnologia, quero entender como usá-la para resolver problemas reais.*
+> Mais do que aprender tecnologia, quero entender como utilizá-la para resolver problemas reais.
 
-Sou estudante de **Tecnologia em Inteligência Artificial** no **Piauí Instituto de Tecnologia (PIT).** Estou construindo minha formação por meio da faculdade, de experiências práticas e de projetos que me permitem explorar diferentes áreas da tecnologia.
+Sou estudante de **Tecnologia em Inteligência Artificial** no **Piauí Instituto de Tecnologia (PIT)** e **Embaixador Estudantil do Google**, com foco profissional em **Engenharia de Dados**.
 
-Tenho interesse nas áreas de inteligência artificial, dados e inovação, mas continuo aberto a explorar novas possibilidades e descobrir os caminhos com os quais mais me identifico.
+Tenho interesse em compreender todo o ciclo de vida dos dados, desde sua coleta, armazenamento e processamento até sua transformação em informações capazes de orientar decisões.
 
-- 📊 Principal área de interesse: **dados**
-- 🧠 Curiosidade por soluções que conectam **dados e inteligência artificial**
-- 🚀 Interesse em **tecnologia, inovação e empreendedorismo**
-- 🌱 Aprendizado contínuo por meio de experiências e projetos práticos
+Busco conectar dados, inteligência artificial e tecnologia para desenvolver soluções que resolvam problemas reais e gerem valor para pessoas e organizações.
+
+- 📊 Foco profissional em Engenharia de Dados.
+- 🎓 Graduando em Tecnologia em Inteligência Artificial.
+- 🌐 Embaixador Estudantil do Google.
+- 🚀 Interesse em tecnologia, inovação e empreendedorismo.
+- 🌱 Aprendizado contínuo por meio de projetos e experiências práticas.
+- 📍 Piauí, Brasil.
 
 ---
 
@@ -38,75 +47,122 @@ Tenho interesse nas áreas de inteligência artificial, dados e inovação, mas 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>Linguagens</strong>
+      <strong>Linguagens de programação</strong>
       <br><br>
-      <img
-        src="https://skillicons.dev/icons?i=python,c,js&theme=dark"
-        alt="Python, C e JavaScript"
-      />
+      <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C e JavaScript" />
+      <br><br>
     </td>
     <td align="center" width="50%">
-      <strong>Desenvolvimento Web</strong>
+      <strong>Banco de dados</strong>
       <br><br>
-      <img
-        src="https://skillicons.dev/icons?i=html,css&theme=dark"
-        alt="HTML e CSS"
-      />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
+      <br><br>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <strong>Banco de Dados</strong>
+      <strong>Análise e processamento de dados</strong>
       <br><br>
-      <img
-        src="https://skillicons.dev/icons?i=postgres&theme=dark"
-        alt="PostgreSQL"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br><br>
     </td>
     <td align="center" width="50%">
-      <strong>Análise de Dados</strong>
+      <strong>Desenvolvimento web</strong>
       <br><br>
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-        width="48"
-        height="48"
-        alt="Pandas"
-      />
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
+      <br><br>
     </td>
   </tr>
 
   <tr>
     <td align="center" colspan="2">
-      <strong>Ferramentas</strong>
+      <strong>Ferramentas e ambiente de desenvolvimento</strong>
       <br><br>
-      <img
-        src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-        alt="Git, GitHub e VS Code"
-      />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code e Docker" />
+      <br><br>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Projetos
+## 📚 Atualmente estudando
 
-> *Cada projeto representa uma etapa do meu aprendizado.*
+Estou direcionando meus estudos para a construção de uma base sólida em dados, inteligência artificial e desenvolvimento de soluções tecnológicas.
 
-| | Projeto | Descrição | Tecnologias |
-|---|---|---|---|
-| 🐍 | **[Python para quem programa em C](https://github.com/JoaoGabriel-o/Python-para-quem-programa-em-C)** | Repositório dedicado à prática de Python e à adaptação dos conceitos de programação aprendidos em C. | <img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="38" alt="Python e C" /> |
-| 🐾 | **[MartinsVet](https://github.com/JoaoGabriel-o/veterinary-website)** | Landing page criada para apresentar os serviços de uma clínica veterinária. | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS e JavaScript" /> |
+| Área | Conhecimentos em desenvolvimento |
+|---|---|
+| 📊 Engenharia de Dados | Pipelines, ETL e processamento de dados |
+| 🗄️ Banco de Dados | SQL, modelagem relacional, PostgreSQL e MySQL |
+| 🐍 Programação | Python, lógica e manipulação de dados |
+| 🧠 Inteligência Artificial | Machine Learning e modelos preditivos |
+| 🔗 Integração de Sistemas | APIs REST e comunicação entre aplicações |
+| 🐳 Infraestrutura | Docker e conteinerização de aplicações |
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🚀 Projetos em destaque
+
+> Cada projeto representa uma etapa da transformação do conhecimento em prática.
+
+### 🐍 Python para quem programa em C
+
+Repositório dedicado à prática de Python, estabelecendo conexões entre os fundamentos de programação aprendidos em C e as particularidades da linguagem Python.
+
+**Conhecimentos aplicados:**
+
+- Lógica de programação.
+- Estruturas condicionais e de repetição.
+- Fundamentos de algoritmos.
+- Adaptação entre linguagens de programação.
+
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="40" alt="Python e C" />
+
+[![Repositório](https://img.shields.io/badge/Acessar_repositório-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o/Python-para-quem-programa-em-C)
+
+---
+
+### 🐾 MartinsVet
+
+Landing page desenvolvida para apresentar os serviços de uma clínica veterinária, aplicando conhecimentos de desenvolvimento web na construção de uma presença digital.
+
+**Conhecimentos aplicados:**
+
+- Estruturação de páginas web.
+- Estilização de interfaces.
+- Desenvolvimento front-end.
+- Organização e apresentação de informações.
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" alt="HTML, CSS e JavaScript" />
+
+[![Repositório](https://img.shields.io/badge/Acessar_repositório-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o/veterinary-website)
+
+---
+
+## 🎓 Formação e experiências
+
+| Instituição / Organização | Formação ou atuação |
+|---|---|
+| Piauí Instituto de Tecnologia (PIT) | Tecnologia em Inteligência Artificial |
+| Google | Embaixador Estudantil — 2026 |
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGabriel-o&theme=github_dark" height="180" alt="Estatísticas do GitHub" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGabriel-o&theme=github_dark" height="180" alt="Linguagens mais usadas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoGabriel-o&theme=vue" width="95%" alt="Histórico de contribuições no GitHub" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGabriel-o&theme=vue" width="47%" alt="Estatísticas do GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGabriel-o&theme=vue" width="47%" alt="Linguagens por repositório" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=JoaoGabriel-o&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=6EE7B7&dates=9CA3AF&stroke=064E3B" width="75%" alt="Sequência de contribuições no GitHub" />
 
 </div>
 
@@ -114,11 +170,15 @@ Tenho interesse nas áreas de inteligência artificial, dados e inovação, mas 
 
 ## 🤝 Vamos nos conectar
 
+Estou aberto a novas conexões, oportunidades de aprendizado, projetos colaborativos e experiências profissionais nas áreas de dados, inteligência artificial e tecnologia.
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JoaoGabriel--o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o)
-[![Instagram](https://img.shields.io/badge/Instagram-@joaogabriel.olg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabriel.olg/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Gabriel_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-3b03282ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Gabriel_Oliveira-064E3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-3b03282ab/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@joaogabriel.olg-059669?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabriel.olg/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-JoaoGabriel--o-064E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoGabriel-o)
 
 </div>
 
@@ -126,8 +186,10 @@ Tenho interesse nas áreas de inteligência artificial, dados e inovação, mas 
 
 <div align="center">
 
-## 🚀 Este perfil acompanha o que venho aprendendo e construindo na tecnologia.
+### Building knowledge. Creating solutions. Generating impact.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Rodapé" />
+*Construindo conhecimento, criando soluções e gerando impacto.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&height=120&section=footer" width="100%" alt="Rodapé" />
 
 </div>
