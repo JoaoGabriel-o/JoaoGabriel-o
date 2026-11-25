@@ -147,16 +147,21 @@ A aplicação integra desenvolvimento web, banco de dados relacional e inteligê
 
 ### 📑 Edital Bizurado — Análise Inteligente de Editais
 
+
+### 📑 Edital Bizurado — Análise Inteligente de Editais
+
 ![Status](https://img.shields.io/badge/Status-Protótipo_funcional-059669?style=flat-square)
 ![Categoria](https://img.shields.io/badge/Categoria-Full_Stack-064E3B?style=flat-square)
 ![Projeto](https://img.shields.io/badge/Projeto-Acadêmico-064E3B?style=flat-square)
 ![Modelo](https://img.shields.io/badge/Modelo-SaaS-059669?style=flat-square)
 
-Aplicação web full stack desenvolvida em equipe durante a graduação em Tecnologia em Inteligência Artificial, voltada à análise inteligente de editais de concursos públicos, vestibulares e processos seletivos.
+Aplicação web full stack desenvolvida em equipe como trabalho final da disciplina de **Ferramentas de I.A. e Chatbots**, durante o segundo período do curso de Tecnologia em Inteligência Artificial no Piauí Instituto de Tecnologia (PIT).
 
-A plataforma utiliza inteligência artificial generativa para transformar documentos extensos em informações estruturadas, facilitando a consulta de prazos, cargos, requisitos e conteúdos programáticos por meio de um painel interativo e de um assistente virtual contextualizado.
+O projeto tem como objetivo simplificar a leitura, a interpretação e a organização de editais de concursos públicos, vestibulares e processos seletivos por meio da inteligência artificial generativa.
 
-O projeto também contempla a prototipação de um produto digital com proposta de modelo de negócio SaaS (Software as a Service).
+A plataforma transforma documentos extensos e não estruturados em informações organizadas, facilitando a consulta de prazos, cargos, requisitos e conteúdos programáticos por meio de um painel interativo e de um assistente virtual contextualizado, denominado **Bizu**.
+
+Além do desenvolvimento técnico, o projeto contempla a prototipação de um produto digital com proposta de modelo de negócio SaaS (Software as a Service), incluindo análise SWOT e Business Model Canvas.
 
 **Principais funcionalidades e implementações:**
 
