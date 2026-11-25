@@ -144,18 +144,68 @@ A aplicação integra desenvolvimento web, banco de dados relacional e inteligê
 
 ---
 
-### 📑 Edital Bizurado
 
-![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-D97706?style=flat-square)
+### 📑 Edital Bizurado — Análise Inteligente de Editais
+
+![Status](https://img.shields.io/badge/Status-Protótipo_funcional-059669?style=flat-square)
+![Categoria](https://img.shields.io/badge/Categoria-Full_Stack-064E3B?style=flat-square)
 ![Projeto](https://img.shields.io/badge/Projeto-Acadêmico-064E3B?style=flat-square)
+![Modelo](https://img.shields.io/badge/Modelo-SaaS-059669?style=flat-square)
 
-Aplicação acadêmica em desenvolvimento durante a graduação em Tecnologia em Inteligência Artificial.
+Aplicação web full stack desenvolvida em equipe durante a graduação em Tecnologia em Inteligência Artificial, voltada à análise inteligente de editais de concursos públicos, vestibulares e processos seletivos.
 
-<!--
-Adicionar descrição da aplicação, funcionalidades,
-tecnologias utilizadas, contribuições individuais,
-link do repositório e link da aplicação.
--->
+A plataforma utiliza inteligência artificial generativa para transformar documentos extensos em informações estruturadas, facilitando a consulta de prazos, cargos, requisitos e conteúdos programáticos por meio de um painel interativo e de um assistente virtual contextualizado.
+
+O projeto também contempla a prototipação de um produto digital com proposta de modelo de negócio SaaS (Software as a Service).
+
+**Principais funcionalidades e implementações:**
+
+- Upload e processamento de documentos PDF utilizando PDF.js.
+- Extração, classificação e estruturação de informações com a API Google Gemini.
+- Divisão de documentos em trechos para processamento sequencial.
+- Limpeza, normalização e consolidação dos resultados gerados pela IA.
+- Painel interativo de prazos, cargos, requisitos e conteúdos programáticos.
+- Arquitetura cliente-servidor com Node.js e Express.
+- API REST para análise documental e comunicação com a inteligência artificial.
+- Assistente virtual contextualizado denominado Bizu.
+- Engenharia de prompts, definição de persona e mecanismos de guardrails.
+- Persistência local de dados e histórico de editais analisados.
+- Tratamento de erros, timeout e cancelamento de requisições.
+- Gerenciamento e proteção de credenciais de APIs.
+- Interface responsiva com temas claro e escuro.
+- Página comercial com proposta de assinatura SaaS, sem cobrança implementada.
+
+**Minhas contribuições:**
+
+- Participação na definição do escopo e na estruturação do protótipo.
+- Configuração do ambiente e testes de integração com a API Google Gemini.
+- Validação do processamento de editais reais e fictícios.
+- Preparação de um edital fictício com 12 cargos para demonstração da aplicação.
+- Desenvolvimento de melhorias na interface e na experiência do usuário.
+- Refinamento da interface e da comunicação do assistente virtual.
+- Desenvolvimento da página de planos e assinatura.
+- Integração e sincronização dos temas claro e escuro.
+- Controle de versão, resolução de conflitos de merge e integração das contribuições da equipe.
+- Proteção de credenciais e gerenciamento de variáveis de ambiente.
+- Participação na construção do modelo de negócio, análise SWOT e Business Model Canvas.
+
+**Tecnologias utilizadas:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,npm&theme=dark" height="42" alt="Tecnologias do Edital Bizurado" />
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-059669?style=flat-square&logo=googlegemini&logoColor=white)
+![Google GenAI SDK](https://img.shields.io/badge/Google_GenAI_SDK-064E3B?style=flat-square)
+![PDF.js](https://img.shields.io/badge/PDF.js-059669?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-064E3B?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-059669?style=flat-square&logo=json&logoColor=white)
+![localStorage](https://img.shields.io/badge/localStorage-064E3B?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-059669?style=flat-square&logo=vercel&logoColor=white)
+
+**Status atual:**
+
+Protótipo acadêmico funcional, em fase de validação e aprimoramento da qualidade do processamento documental, estabilidade das integrações e desempenho do assistente virtual.
+
+<!-- Adicionar os links do repositório e da aplicação quando disponíveis. -->
 
 ---
 
