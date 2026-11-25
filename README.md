@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&height=200&section=header&text=Jo%C3%A3o%20Gabriel%20Oliveira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Artificial%20Intelligence&descSize=17&descAlignY=55" width="100%" alt="Cabeçalho João Gabriel" />
@@ -44,61 +43,128 @@ Busco conectar dados, inteligência artificial e tecnologia para desenvolver sol
 
 ## 🛠️ Tecnologias e ferramentas
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>Linguagens de programação</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C e JavaScript" />
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <strong>Banco de dados</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
-      <br><br>
-    </td>
-  </tr>
+### Linguagens de programação
 
-  <tr>
-    <td align="center" width="50%">
-      <strong>Análise e processamento de dados</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <strong>Desenvolvimento web</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
-      <br><br>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" height="42" alt="Python, C e JavaScript" />
 
-  <tr>
-    <td align="center" colspan="2">
-      <strong>Ferramentas e ambiente de desenvolvimento</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Git, GitHub, VS Code e Docker" />
-      <br><br>
-    </td>
-  </tr>
-</table>
+### Dados e processamento
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" />
+
+![SQL](https://img.shields.io/badge/SQL-064E3B?style=flat-square)
+![PDF.js](https://img.shields.io/badge/PDF.js-059669?style=flat-square)
+
+### Desenvolvimento Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="42" alt="HTML e CSS" />
+
+### Back-end e integração
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="42" alt="Node.js e Express" />
+
+![REST API](https://img.shields.io/badge/REST_API-064E3B?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-059669?style=flat-square)
+
+### Inteligência Artificial
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-059669?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google GenAI SDK](https://img.shields.io/badge/Google_GenAI_SDK-064E3B?style=for-the-badge)
+
+### Infraestrutura e ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,npm&theme=dark" height="42" alt="Git, GitHub, VS Code, Docker, Vercel e npm" />
+
+![Neon](https://img.shields.io/badge/Neon-059669?style=flat-square)
 
 ---
 
-## 📚 Atualmente estudando
 
-Estou direcionando meus estudos para a construção de uma base sólida em dados, inteligência artificial e desenvolvimento de soluções tecnológicas.
+## 🎯 Foco atual e desenvolvimento técnico
 
-| Área | Conhecimentos em desenvolvimento |
-|---|---|
-| 📊 Engenharia de Dados | Pipelines, ETL e processamento de dados |
-| 🗄️ Banco de Dados | SQL, modelagem relacional, PostgreSQL e MySQL |
-| 🐍 Programação | Python, lógica e manipulação de dados |
-| 🧠 Inteligência Artificial | Machine Learning e modelos preditivos |
-| 🔗 Integração de Sistemas | APIs REST e comunicação entre aplicações |
-| 🐳 Infraestrutura | Docker e conteinerização de aplicações |
+Construindo uma formação sólida em **Engenharia de Dados**, conectando programação, infraestrutura e inteligência artificial ao desenvolvimento de soluções reais.
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+
+<h3>📊 Engenharia de Dados</h3>
+
+![Focus](https://img.shields.io/badge/Principal_foco_profissional-059669?style=for-the-badge)
+
+Pipelines de dados, ETL, ingestão, transformação, normalização e processamento de informações.
+
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="42" alt="Tecnologias de dados" />
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-064E3B?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-059669?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-064E3B?style=flat-square&logo=pandas&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-059669?style=flat-square)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<h3>🧠 Inteligência Artificial</h3>
+
+Machine Learning, IA generativa, engenharia de prompts, processamento documental e desenvolvimento de chatbots.
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-064E3B?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-059669?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-064E3B?style=flat-square)
+
+</td>
+    <td width="50%" align="center" valign="top">
+
+<h3>🗄️ Banco de Dados</h3>
+
+Modelagem relacional, integridade referencial, consultas SQL, transações, índices e análise de desempenho.
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" />
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-064E3B?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-059669?style=flat-square)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<h3>💻 Desenvolvimento e integração</h3>
+
+Arquitetura cliente-servidor, desenvolvimento web, APIs REST e integração entre aplicações.
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css&theme=dark" height="42" />
+
+<br><br>
+
+![REST API](https://img.shields.io/badge/REST_API-064E3B?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-059669?style=flat-square)
+
+</td>
+    <td width="50%" align="center" valign="top">
+
+<h3>🐳 Infraestrutura e ferramentas</h3>
+
+Conteinerização de aplicações, controle de versão, desenvolvimento colaborativo e ambientes de desenvolvimento.
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" height="42" />
+
+<br><br>
+
+![Containers](https://img.shields.io/badge/Containers-064E3B?style=flat-square)
+![Version Control](https://img.shields.io/badge/Version_Control-059669?style=flat-square)
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -143,9 +209,6 @@ A aplicação integra desenvolvimento web, banco de dados relacional e inteligê
 [![Aplicação](https://img.shields.io/badge/Acessar_aplicação-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://devweb-ia-pizzaria.vercel.app/)
 
 ---
-
-
-### 📑 Edital Bizurado — Análise Inteligente de Editais
 
 
 ### 📑 Edital Bizurado — Análise Inteligente de Editais
@@ -274,14 +337,10 @@ Repositório dedicado ao estudo de Python, relacionando os fundamentos de progra
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoGabriel-o&theme=vue" width="95%" alt="Histórico de contribuições no GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoGabriel-o&theme=github_dark" width="96%" alt="Histórico de contribuições no GitHub" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGabriel-o&theme=vue" width="47%" alt="Estatísticas do GitHub" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGabriel-o&theme=vue" width="47%" alt="Linguagens por repositório" />
-
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoGabriel-o&theme=github_dark" width="47%" alt="Estatísticas do GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoGabriel-o&theme=github_dark" width="47%" alt="Linguagens por repositório" />
 
 <img src="https://streak-stats.demolab.com?user=JoaoGabriel-o&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=6EE7B7&dates=9CA3AF&stroke=064E3B" width="75%" alt="Sequência de contribuições no GitHub" />
 
