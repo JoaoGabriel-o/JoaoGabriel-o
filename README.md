@@ -49,6 +49,6 @@
 
 <div align="center">
 
-*Learning, building and sharing along the way.*
+*Learning, building and sharing along the way. ☕*
 
 </div>
