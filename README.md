@@ -6,9 +6,9 @@
 
 **Software Engineering · Backend Development · Data & AI**
 
-`Python` · `JavaScript` · `Node.js` · `PostgreSQL` · `SQL`
+`Python` · `JavaScript` · `Node.js` · `Express.js` · `PostgreSQL` · `SQL`
 
-`Docker` · `Git` · `Machine Learning` · `Generative AI`
+`Docker` · `Git` · `Pandas` · `Scikit-learn`
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-047857?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-3b03282ab/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-047857?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabriel.olg/)
@@ -32,8 +32,6 @@
 - **[Previsão de Custos de Seguro Saúde](https://github.com/JoaoGabriel-o/previsao-custos-seguro-saude):** projeto acadêmico de Machine Learning que compara modelos de Regressão Linear, Árvore de Decisão e Floresta Aleatória para estimar custos individuais de seguro saúde. Python, Pandas e Scikit-learn.
 
 - **DemandForge:** projeto voltado à construção de um pipeline de dados para previsão de demanda por produto, utilizando registros históricos de vendas. Em desenvolvimento.
-
-- **Edital Bizurado:** aplicação full stack para análise inteligente de editais, com processamento de documentos PDF, extração estruturada de informações e chatbot contextualizado. JavaScript, Node.js, Express, PDF.js e Google Gemini.
 
 - **[Forno & Massa](https://github.com/wallyss-dev/devweb-ia-pizzaria):** plataforma web com gerenciamento de reservas, API REST, banco de dados relacional e assistente virtual. Node.js, Express, PostgreSQL, Neon e Google Gemini. [Demonstração](https://devweb-ia-pizzaria.vercel.app/).
 
